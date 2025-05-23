@@ -73,9 +73,4 @@ Confira mais no meu [GitHub](https://github.com/seuusuario) 🔗
 
 ---
 
-### 📈 Estatísticas GitHub
-
-[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=cassiaemanuelly&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ✨ *Obrigada por visitar meu perfil! Volte sempre que quiser ver meus novos projetos 🚀*
