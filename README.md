@@ -1,29 +1,27 @@
 # Oi! Eu sou a Cássia Emanuelly 🚀
 
-🎓 Estudante de **Sistemas de Informação (FIAP)** e **Design Gráfico (UNINTER)**  
-💻 Foco em desenvolvimento **Back-End com Java/Spring** e **Front-End com React**  
+🎓 Estudante de **Sistemas de Informação (FIAP)** e **Design Gráfico (CRUZEIRO DO SUL)**  
+💻 Foco em desenvolvimento **Back-End com Java** e **Front-End**  
 🎨 Apaixonada por tecnologia, design e inovação  
 📍 São Paulo – SP  
-
----
-
-### 💡 Sobre mim
-
-Sou uma desenvolvedora em formação, apaixonada por transformar ideias em experiências digitais.  
-Atualmente trabalho como atendente comercial em uma cafeteria, onde também apoio na criação de conteúdos e design para o marketing digital. Paralelamente, estudo duas faculdades e sigo me especializando em Java, APIs REST, React, UX/UI e metodologias ágeis.
 
 ---
 
 ### 🛠️ Tecnologias que venho estudando:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 💡 Sobre mim
+
+Sou uma desenvolvedora em formação, apaixonada por transformar ideias em experiências digitais.  
+Atualmente trabalho como atendente comercial em uma cafeteria, onde também apoio na criação de conteúdos e design para o marketing digital. Paralelamente, estudo duas faculdades e sigo me especializando em Java, APIs REST, React, UX/UI e metodologias ágeis.
 
 ---
 
