@@ -47,7 +47,6 @@ Figma · Illustrator · Photoshop · VS Code · IntelliJ IDEA · Adobe XD
 - **Simulador_Combate_Robocup:** Simulação em Java de uma competição RoboCup entre equipes de robôs.  
 - **Valentron:** Landing page para apresentação do robô Valentron — usando React, HTML, CSS e Bootstrap.  
 - **MatrixShop:** E-commerce responsivo feito com HTML5, CSS3, JavaScript e Bootstrap.  
-- **JavaLabProgRevisão:** Projeto para reforçar conceitos de Java e POO.
 
 Confira mais no meu [GitHub](https://github.com/seuusuario) 🔗
 
