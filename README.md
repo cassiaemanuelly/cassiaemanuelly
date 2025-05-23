@@ -42,19 +42,6 @@ Figma · Illustrator · Photoshop · VS Code · IntelliJ IDEA · Adobe XD
 
 ---
 
-### 🎓 Certificações e Cursos
-
-- Java fundamentos e Java Developer - Fiap 
-- Java: Consumindo API, Gravando Arquivos e Lidando com Erros – Alura  
-- Java: Trabalhando com Listas e Coleções – Alura  
-- Java: Aplicando a Orientação a Objetos – Alura
-- HTML5 e CSS3: Primeiros Passos – Fundação Bradesco  
-- Lógica de Programação – TreinaWeb  
-- Design Thinking e Prototipagem – TreinaWeb  
-- ESG e Personal Branding – FIAP
-
----
-
 ### 📬 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cassia-emanuelly)  
