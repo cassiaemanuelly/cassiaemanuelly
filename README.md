@@ -1,43 +1,68 @@
 # Oi! Eu sou a Cássia Emanuelly 🚀
 
 🎓 Estudante de **Sistemas de Informação (FIAP)** e **Design Gráfico (CRUZEIRO DO SUL)**  
-💻 Foco em desenvolvimento **Back-End com Java** e **Front-End**  
+💻 Foco em Desenvolvimento Web
 🎨 Apaixonada por tecnologia, design e inovação  
 📍 São Paulo – SP  
 
 ---
 
-### 🛠️ Tecnologias que venho estudando:
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
 
 ### 💡 Sobre mim
 
-Sou uma desenvolvedora em formação, apaixonada por transformar ideias em experiências digitais.  
-Atualmente trabalho como atendente comercial em uma cafeteria, onde também apoio na criação de conteúdos e design para o marketing digital. Paralelamente, estudo duas faculdades e sigo me especializando em Java, APIs REST, React, UX/UI e metodologias ágeis.
+Sou desenvolvedora em formação, motivada por transformar ideias em experiências digitais significativas.
+Alio habilidades técnicas e criativas para entregar soluções completas — do código à interface do usuário.
+
+Meu objetivo é crescer como web developer, contribuindo em projetos que gerem impacto real e aprendizado constante.
 
 ---
 
-### 📚 Alguns projetos legais:
+### 💻 Tecnologias Utilizadas
 
-- 🔐 **API de Gerenciamento de Tarefas** – Java + Spring Boot + JWT + Swagger  
-- 🌐 **Portfólio Front-End** – SPA com React.js, acessível e responsivo  
-- 📊 **Sistema Acadêmico** (em andamento) – Java + React + MySQL  
+**Back-end:**  
+Java · Spring Boot · JPA · Hibernate · REST APIs · JWT · JUnit · SOLID · MVC · DDD  
+
+**Front-end:**  
+HTML5 · CSS3 · JavaScript · React.js · Bootstrap · Consumo de APIs REST  
+
+**Banco de Dados & DevOps:**  
+MySQL · PostgreSQL · Docker (básico) · Git · GitHub · Postman · Swagger  
+
+**Design & Ferramentas:**  
+Figma · Illustrator · Photoshop · VS Code · IntelliJ IDEA · Adobe XD  
 
 ---
 
-### 📈 Estou aprendendo sobre:
+### 🚀 Projetos em destaque
 
-- Boas práticas com **POO, SOLID, DDD**  
-- Microsserviços, autenticação e documentação com Swagger  
-- Integração de APIs e desenvolvimento web full stack
+- **Simulador_Combate_Robocup:** Simulação em Java de uma competição RoboCup entre equipes de robôs.  
+- **Valentron:** Landing page para apresentação do robô Valentron — usando React, HTML, CSS e Bootstrap.  
+- **MatrixShop:** E-commerce responsivo feito com HTML5, CSS3, JavaScript e Bootstrap.  
+- **JavaLabProgRevisão:** Projeto para reforçar conceitos de Java e POO.
+
+Confira mais no meu [GitHub](https://github.com/seuusuario) 🔗
+
+---
+
+### 🎓 Certificações e Cursos
+
+- Java fundamentos e Java Developer - Fiap 
+- Java: Consumindo API, Gravando Arquivos e Lidando com Erros – Alura  
+- Java: Trabalhando com Listas e Coleções – Alura  
+- Java: Aplicando a Orientação a Objetos – Alura
+- HTML5 e CSS3: Primeiros Passos – Fundação Bradesco  
+- Lógica de Programação – TreinaWeb  
+- Design Thinking e Prototipagem – TreinaWeb  
+- ESG e Personal Branding – FIAP
 
 ---
 
@@ -47,5 +72,10 @@ Atualmente trabalho como atendente comercial em uma cafeteria, onde também apoi
 📧 cassiaemanuelly05@gmail.com
 
 ---
+
+### 📈 Estatísticas GitHub
+
+[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=cassiaemanuelly&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ✨ *Obrigada por visitar meu perfil! Volte sempre que quiser ver meus novos projetos 🚀*
