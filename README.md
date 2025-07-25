@@ -48,8 +48,7 @@ Figma · Illustrator · Photoshop · VS Code · IntelliJ IDEA · Adobe XD
 
 ### 📬 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cassia-emanuelly)  
-📧 cassiaemanuelly05@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cassia-emanuelly) 📧 cassiaemanuelly05@gmail.com
 
 ---
 
