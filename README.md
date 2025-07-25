@@ -1,8 +1,7 @@
-| # Oi! Eu sou a Cássia Emanuelly 🚀 |
-|---|
+# Oi! Eu sou a Cássia Emanuelly 🚀
 
 🎓 Estudante de **Sistemas de Informação (FIAP)** e **Design Gráfico (CRUZEIRO DO SUL)**  
-💻 Foco em Desenvolvimento Web  
+💻 Foco em Desenvolvimento Web
 🎨 Apaixonada por tecnologia, design e inovação  
 📍 São Paulo – SP  
 
@@ -20,7 +19,7 @@
 
 ### 💡 Sobre mim
 
-Sou desenvolvedora em formação, motivada por transformar ideias em experiências digitais significativas.  
+Sou desenvolvedora em formação, motivada por transformar ideias em experiências digitais significativas.
 Alio habilidades técnicas e criativas para entregar soluções completas — do código à interface do usuário.
 
 Meu objetivo é crescer como web developer, contribuindo em projetos que gerem impacto real e aprendizado constante.
@@ -43,20 +42,7 @@ Figma · Illustrator · Photoshop · VS Code · IntelliJ IDEA · Adobe XD
 
 ---
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=cassiaemanuelly&show_icons=true&theme=whitw" width="320" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiaemanuelly&layout=compact&theme=white" width="320" />
-    </td>
-  </tr>
-</table>
-
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cassiaemanuelly&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cassiaemanuelly&show_icons=true&theme=radical) | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiaemanuelly&layout=compact&theme=radical) |
 
 ---
 
@@ -68,3 +54,5 @@ Figma · Illustrator · Photoshop · VS Code · IntelliJ IDEA · Adobe XD
 ---
 
 ✨ *Obrigada por visitar meu perfil! Volte sempre que quiser ver meus novos projetos 🚀*
+
+
