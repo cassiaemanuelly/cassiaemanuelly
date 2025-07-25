@@ -42,13 +42,12 @@ Figma · Illustrator · Photoshop · VS Code · IntelliJ IDEA · Adobe XD
 
 ---
 
-![Cassia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cassiaemanuelly&show_icons=true&theme=radical)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cassiaemanuelly&show_icons=true&theme=radical) | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiaemanuelly&layout=compact&theme=radical) |
+|---|---|
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiaemanuelly&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cassiaemanuelly&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cassiaemanuelly)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 📬 Vamos conversar?
