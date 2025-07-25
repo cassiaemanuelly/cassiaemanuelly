@@ -42,12 +42,7 @@ Figma · Illustrator · Photoshop · VS Code · IntelliJ IDEA · Adobe XD
 
 ---
 
-
-      <img src="https://github-readme-stats.vercel.app/api?username=cassiaemanuelly&show_icons=true&theme=radical" width="320" />
-   
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiaemanuelly&layout=compact&theme=radical" width="300" />
-    
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cassiaemanuelly&show_icons=true&theme=radical) ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiaemanuelly&layout=compact&theme=radical) 
 
 ---
 
